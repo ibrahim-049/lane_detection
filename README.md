@@ -23,3 +23,5 @@ laneDet.bat C:\lane_detection-main\test_videos\challenge_video.mp4 C:\lane_detec
 contributers 
 
 Ibrahim Gamal Ibrahim Abdelrady 1600007
+خالد السيد محمد رمضان 1600500
+عمر ابراهيم اسماعيل محمد 1600849
